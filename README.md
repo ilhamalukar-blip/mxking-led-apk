@@ -19,5 +19,5 @@ Upload via Arduino IDE dengan pengaturan:
 - Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)
 
 ## Akun Login Aplikasi
-- Nama: ILHAM AQIB
-- Password: Ilham123
+- Nama: ILHAM 
+- Password: 
